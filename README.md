@@ -11,7 +11,7 @@ This project aims to demonstrate the use of MATLAB's system identification toolb
 * Download and install the following support packages:
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
 
-## Laboratory exercises 
+## Laboratory Exercises 
 * Download 
 
 
