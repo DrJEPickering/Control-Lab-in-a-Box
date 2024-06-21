@@ -18,14 +18,14 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 * Simulink Arduino Support Package is used, the add-on...
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
 * lab details as follows:
-     1. CLB-1
-     2. CLB-2
-     3. CLB-3
-     4. CLB-4
-     5. CLB-5
-     6. CLB-6
-     7. CLB-7
-     8. CLB-8
-     9. CLB-9
-     10. CLB-10
+     CLB-1
+     CLB-2
+     CLB-3
+     CLB-4
+     CLB-5
+     CLB-6
+     CLB-7
+     CLB-8
+     CLB-9
+     CLB-10
 
