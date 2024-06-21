@@ -34,5 +34,6 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 ## Other Cool Projects
 
 [Arduino-based-bi-copter-experiments](https://github.com/eenikov/Arduino-based-bi-copter-experiments/tree/main)
+[Robotics 311: How to Build Robots and Make Them Move](https://github.com/michiganrobotics/rob311)
 
 
