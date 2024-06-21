@@ -8,11 +8,12 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 
 ![render position 3 11](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/56c510a4-0e8c-4f94-b301-7c2336833f34)
 
-## Setting-Up (Electronics, Rapid Prototyping and Assemble)
+## Setting-Up 
 * [Details of the components that need to be 3D printed](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
 * [Details of the components that need to be laser cut](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
-* Details of parts/components 
-* Assesmble instructions 
+* [Details of parts/components required to be purchased](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
+* [Details of the components that need to be laser cut](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
+* [Assesmble instructions](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
 
 ## Typical Teaching Curriculum
 
