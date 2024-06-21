@@ -9,7 +9,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 ![render position 3 11](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/56c510a4-0e8c-4f94-b301-7c2336833f34)
 
 ## Setting-Up (Electronics, Rapid Prototyping and Assemble)
-* 3D printing components
+* [Components to be 3D Printed](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%20Components_to_be_3D_Printed)
 * Laser cutting components
 * Details of parts/components 
 * Assesmble instructions 
@@ -20,7 +20,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 * Simulink Arduino Support Package is used, the add-on...
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
 * Lab details as follows:\
-     CLB-1: XX\
+     CLB-1: Introduciton to....\
      CLB-2: XX\
      CLB-3: XX\
      CLB-4: XX\
