@@ -33,7 +33,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 ## Publications 
 [Pickering, J.E., 2024, April. Developments in Control Engineering Education: Lab-in-a-Box Project Based Learning. In 2024 UKACC 14th International Conference on Control (CONTROL) (pp. 195-200). IEEE.](https://ieeexplore.ieee.org/document/10531946)
 
-## Other Cool Projects
+## Other Projects
 [Arduino-based-bi-copter-experiments](https://github.com/eenikov/Arduino-based-bi-copter-experiments/tree/main)\
 [Robotics 311: How to Build Robots and Make Them Move](https://github.com/michiganrobotics/rob311)
 
