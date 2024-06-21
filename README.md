@@ -17,7 +17,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 ## Laboratory Exercises 
 * Simulink Arduino Support Package is used, the add-on...
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
-* Lab details as follows:
+* Lab details as follows:\
      CLB-1\
      2. CLB-2
      3. CLB-3
