@@ -15,7 +15,7 @@ CLB requires a range of hardware, a MATLAB and Simulink license and access to
 ## Setting-up Control-Lab-in-a-Box (CLB)
 
 * Download and install the following support packages:
-    * [a link](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
+    * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
 
 
 
