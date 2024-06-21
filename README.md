@@ -29,7 +29,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
      CLB-9: XX\
      CLB-10: XX\
 
-## Other 'cool' Projects
+## Other Cool Projects
 
 [Arduino-based-bi-copter-experiments](https://github.com/eenikov/Arduino-based-bi-copter-experiments/tree/main)
 
