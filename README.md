@@ -14,6 +14,8 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 * Details of parts/components 
 * Assesmble instructions 
 
+## Typical Teaching Curriculum
+
 ## Laboratory Exercises 
 * Simulink Arduino Support Package is used, the add-on...
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
