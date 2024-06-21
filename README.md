@@ -33,5 +33,4 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 
 [Arduino-based-bi-copter-experiments](https://github.com/eenikov/Arduino-based-bi-copter-experiments/tree/main)
 
-    * [Arduino-based-bi-copter-experiments](https://github.com/eenikov/Arduino-based-bi-copter-experiments/tree/main).
 
