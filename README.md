@@ -18,8 +18,11 @@ Dr James E. Pickering wishes to acknowledge the following colleagues at Aston Un
 * [Parts/components that need to be sourced](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_component_details.pdf)
 * [Assesmble instructions and part/component modifications](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
 
-## Typical Teaching Curriculum
+## Teaching Curriculum
 The table below outlines a schedule for using Control-Lab-in-a-Box (CLB) to support both theory and simulation teaching of control engineering. While the notes for theory and simulation teaching are not included, these can be provided upon request.
+
+<br / As used in the teaching curriculum, MathWorks Onramp self-paced online courses can be found at this [link]([https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing](https://matlabacademy.mathworks.com/))
+
 
 ![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
