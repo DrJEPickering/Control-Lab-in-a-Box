@@ -24,9 +24,6 @@ The table below outlines a schedule for using the nice Control-Lab-in-a-Box (CLB
 As used in the teaching curriculum, MathWorks Onramp (MATLAB and Simulink) self-paced online courses can be found at this 
 [link](https://matlabacademy.mathworks.com/), and the DC motor virtual lab found at this [link](https://uk.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
 
-
-https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/blob/release/Images/image_8.gif
-
 ![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
 ## Laboratory Exercises 
