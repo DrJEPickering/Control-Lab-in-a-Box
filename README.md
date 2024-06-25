@@ -6,7 +6,8 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 * Bridge the gap between control theory and practice
 * Develop skills/knowledge from CLB to be transferable, e.g. to a robotic platform
 * Incremental approach to learning 
-* Transportable and low cost
+* Easily stored within a lab/office, portable (fits within a typical bag) and low cost (£xxxx), i.e., doesn’t matter if parts are broken/lost 
+
   
 ## Setting-Up 
 ![render position 3 11](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/56c510a4-0e8c-4f94-b301-7c2336833f34)
