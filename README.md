@@ -1,6 +1,6 @@
 # Control-Lab-in-a-Box (CLB)
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
-\Email: j.pickering1@aston.ac.uk
+/Email: j.pickering1@aston.ac.uk
 
 ## Objectives of Control-Lab-in-a-Box (CLB)
 *
