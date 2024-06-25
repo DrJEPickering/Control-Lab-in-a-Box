@@ -5,7 +5,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 ## CLB has been developed to:
 * Bridge the gap between control theory and practice
 * Develop skills/knowledge from CLB to be transferable, e.g. to a robotic platform
-* Incremental approach to learning 
+* Incremental approach to learning, i.e., from transfer functions to system identification to PID control
 * Easily stored within a lab/office, portable (fits within a typical bag) and low cost (£xxxx), i.e., doesn’t matter if parts are broken/lost 
 
   
