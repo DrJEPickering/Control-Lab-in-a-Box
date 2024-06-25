@@ -3,9 +3,9 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
 ## CLB has been designed to: 
-* Bridge the gap between control theory and practice
+* Bridge the gap between control theory and practice.
 * Ensure that the skills and knowledge acquired from CLB are transferable, such as to a robotic platform.
-* Facilitate an incremental and practical approach to learning, for instance, by employing a transfer function (and system identification methods) to design PID control.
+* Facilitate an incremental and practical approach to learning, for instance, by employing a transfer function (and system identification methods) to design a PID controller.
 * Be easily stored in a lab or office, portable enough to fit within a typical bag, and affordable (approximately £100), thus reducing concerns if parts are broken or lost.
 
 ## Acknowledgments
