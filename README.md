@@ -13,21 +13,9 @@ Dr James E. Pickering wishes to acknowledge the following colleagues at Aston Un
 
 ## Setting-Up 
 The computer-aided design (CAD) illustration below displays the setup of the Control-Lab-in-a-Box (CLB) with key components labeled. Please note that not all components, such as nuts, bolts, and wires, are detailed in this diagram.
-
-For the CLB, rapid prototyping methods of 3D printing and laser cutting are employed, with the [CAD designs available](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_for_3D_printing.zip) in XXXX format.
-
-
-
+For the CLB, rapid prototyping methods of 3D printing and laser cutting are employed, with the the 3D printing CAD available [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_for_3D_printing.zip) and the laser cutting CAD available [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_to_be_laser_cut.zip)
 A document detailing the parts/components necessary for the full utilisation of CLB is provided [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_component_details.pdf). Additionally, a document detailing the assembly instructions and modifications for parts/components is included [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf)
  
-
-
-* [Components that need to be laser cut](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_to_be_laser_cut.zip)
-
-
-
-
-
 ![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/1c652bf6-f888-432c-bed8-9d83c43549ed)
 
 
