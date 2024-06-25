@@ -27,8 +27,10 @@ As used in the teaching curriculum, MathWorks Onramp (MATLAB and Simulink) self-
 ![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
 ## CLB Exercises 
-* For this, Simulink Arduino Support Package is used, details can be found [here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink). Details on how to install the Add-on (i.e., Simulink Arduino Support Package) can be found within CLB-1 (i.e., 
-  Simulink for Code Generation and Deployment: LED Exercise).
+For this, Simulink Arduino Support Package is used, details can be found [here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink). Details on how to install the Add-on (i.e., Simulink Arduino Support Package) can be found within CLB-1 (i.e., 
+Simulink for Code Generation and Deployment: LED Exercise).
+
+  
 
 ## Trial CLB 
 If you wish to trial CLB, this can be posted to you.
