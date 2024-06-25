@@ -29,17 +29,7 @@ As used in the teaching curriculum, MathWorks Onramp (MATLAB and Simulink) self-
 ## CLB Exercises 
 * Simulink Arduino Support Package is used, the add-on...
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
-* Lab details as follows:\
-     CLB-1: Introduciton to....\
-     CLB-2: XX\
-     CLB-3: XX\
-     CLB-4: XX\
-     CLB-5: XX\
-     CLB-6: XX\
-     CLB-7: XX\
-     CLB-8: XX\
-     CLB-9: XX\
-     CLB-10: XX\
+  
 
 ## Trial CLB 
 If you wish to trial CLB, this can be posted to you.
