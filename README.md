@@ -26,7 +26,7 @@ As used in the teaching curriculum, MathWorks Onramp (MATLAB and Simulink) self-
 
 ![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
-## Laboratory Exercises 
+## CLB Exercises 
 * Simulink Arduino Support Package is used, the add-on...
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
 * Lab details as follows:\
