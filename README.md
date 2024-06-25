@@ -2,7 +2,7 @@
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
-# Control-Lab-in-a-Box (CLB) has been developed to:
+## CLB has been developed to:
 * Bridge the gap between control theory and practice 
 * Transferrable skills
 * Incremental approach to learning 
