@@ -8,12 +8,6 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 & Incremental approach to learning 
 * Transportable and low cost
   
-![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e7e2bec1-f8b1-4192-932f-745463f0574e)
-
-*
-*
-
-
 ## Setting-Up 
 ![render position 3 11](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/56c510a4-0e8c-4f94-b301-7c2336833f34)
 * [Components that need to be 3D printed](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_for_3D_printing.zip)
