@@ -24,6 +24,7 @@ The computer-aided design (CAD) illustration below displays the setup of the Con
 
 ## Teaching Curriculum
 The table below presents a schedule for integrating the Control-Lab-in-a-Box (CLB) exercises into the teaching of control engineering theory and simulation. Although the notes for theory and simulation are not provided on this page, they are available upon request via email.
+
 Additionally, the MathWorks Onramp self-paced online courses for MATLAB and Simulink, used in the teaching curriculum, can be accessed through the provided [link](https://matlabacademy.mathworks.com/) . 
 The DC motor virtual lab is also available at the specified [link](https://uk.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
 
