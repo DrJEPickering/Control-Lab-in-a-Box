@@ -3,8 +3,8 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
 ## CLB has been developed to:
-* Bridge the gap between control theory and practice 
-* Transferrable skills
+* Bridge the gap between control theory and practice
+* Develop skills/knowledge from CLB to be transferable, e.g. to a robotic platform
 * Incremental approach to learning 
 * Transportable and low cost
   
