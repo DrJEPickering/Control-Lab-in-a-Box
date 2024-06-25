@@ -2,11 +2,11 @@
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
-## CLB has been developed to:
+## CLB has been designed to: 
 * Bridge the gap between control theory and practice
-* Develop skills/knowledge from CLB to be transferable, e.g. to a robotic platform
-* Incremental approach to learning, i.e., from transfer functions to system identification to PID control
-* Easily stored within a lab/office, portable (fits within a typical bag) and low cost (~£100), i.e., doesn’t matter if parts are broken/lost 
+* Ensure that the skills and knowledge acquired from CLB are transferable, such as to a robotic platform.
+* Facilitate an incremental and practical approach to learning, for instance, by employing a transfer function (and system identification methods) to design PID control.
+* Be easily stored in a lab or office, portable enough to fit within a typical bag, and affordable (approximately £100), thus reducing concerns if parts are broken or lost.
 
 ## Acknowledgments
 Dr James E. Pickering wishes to acknowledge the following colleagues at Aston University for their help in developing Control-Lab-in-a-Box (CLB): Prof Keith J. Burnham, Aaisha Yasir (Design Intern), Stuart Hallard (Technician), David Palmer (Technician) and Amarjit Dhugga (Technician).
