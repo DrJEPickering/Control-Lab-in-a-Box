@@ -19,10 +19,9 @@ Dr James E. Pickering wishes to acknowledge the following colleagues at Aston Un
 * [Assesmble instructions and part/component modifications](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf)
 
 ## Teaching Curriculum
-The table below outlines a schedule for using the nice Control-Lab-in-a-Box (CLB) exercises to support both theory and simulation teaching of control engineering. While the notes for theory and simulation teaching are not included on this page, these can be provided upon e-mail request.
-
-As used in the teaching curriculum, MathWorks Onramp (MATLAB and Simulink) self-paced online courses can be found at this 
-[link](https://matlabacademy.mathworks.com/), and the DC motor virtual lab found at this [link](https://uk.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
+The table below presents a schedule for integrating the Control-Lab-in-a-Box (CLB) exercises into the teaching of control engineering theory and simulation. Although the notes for theory and simulation are not provided on this page, they are available upon request via email.
+Additionally, the MathWorks Onramp self-paced online courses for MATLAB and Simulink, used in the teaching curriculum, can be accessed through the provided [link](https://matlabacademy.mathworks.com/) . 
+The DC motor virtual lab is also available at the specified [link](https://uk.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
 
 ![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
