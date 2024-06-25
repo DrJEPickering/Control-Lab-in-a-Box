@@ -14,7 +14,7 @@ Dr James E. Pickering wishes to acknowledge the following colleagues at Aston Un
 ## Setting-Up 
 The computer-aided design (CAD) illustration below displays the setup of the Control-Lab-in-a-Box (CLB) with key components labeled. Please note that not all components, such as nuts, bolts, and wires, are detailed in this diagram.
 
-<br />For the CLB, rapid prototyping methods of 3D printing and laser cutting are employed, with the the 3D printing CAD files available [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_for_3D_printing.zip) and the laser cutting CAD files available [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_to_be_laser_cut.zip). For the CAD files, Solidworks 2023 files are provided, along with the correspndng STL files.
+<br />For the CLB, rapid prototyping methods of 3D printing and laser cutting are employed, with the the 3D printing CAD files available [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_for_3D_printing.zip) and the laser cutting CAD files available [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_to_be_laser_cut.zip). For the CAD files, Solidworks 2023 files are provided, along with the correspondng STL files.
 
 <br />A document detailing the parts/components necessary for the full utilisation of CLB is provided [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_component_details.pdf). Additionally, a document detailing the assembly instructions and modifications for parts/components is included [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf)
  
@@ -30,8 +30,12 @@ The DC motor virtual lab is also available at the specified [link](https://uk.ma
 ![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
 ## CLB Exercises 
-For this, Simulink Arduino Support Package is used, details can be found [here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink). Details on how to install the Add-on (i.e., Simulink Arduino Support Package) can be found within CLB-1 (i.e., 
-Simulink for Code Generation and Deployment: LED Exercise).
+Control-Lab-in-a-Box (CLB) is used for nine exercises, with these detailed via the illustration below. 
+
+<br />For the nine CLB exercises, Simulink Arduino Support Package is used, details can be found [here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink). Details on how to install the Add-on (i.e., Simulink Arduino Support Package) can be found within CLB-1 (i.e., Simulink for Code Generation and Deployment: LED Exercise).
+
+![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/39041e18-3f87-4eb4-94b0-8b25bdca7bcc)
+
 
 <br /> The nine CLB exercises can be downloaded individually below:
 <br />[CLB-1: Simulink for Code Generation and Deployment: LED Exercises](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
