@@ -16,7 +16,7 @@ Dr James E. Pickering wishes to acknowledge the following colleagues at Aston Un
 * [Components that need to be 3D printed](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_for_3D_printing.zip)
 * [Components that need to be laser cut](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_to_be_laser_cut.zip)
 * [Parts/components that need to be sourced](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_component_details.pdf)
-* [Assesmble instructions and part/component modifications](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
+* [Assesmble instructions and part/component modifications](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf)
 
 ## Teaching Curriculum
 The table below outlines a schedule for using the nice Control-Lab-in-a-Box (CLB) exercises to support both theory and simulation teaching of control engineering. While the notes for theory and simulation teaching are not included on this page, these can be provided upon e-mail request.
