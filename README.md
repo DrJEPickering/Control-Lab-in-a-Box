@@ -39,9 +39,9 @@ Simulink for Code Generation and Deployment: LED Exercise).
   
 
 ## Trial CLB 
-If you wish to trial CLB, this can be posted to you.
-<br />I just ask that you return the box within a resonable time-period (e.g., 3 months) and provide user feedback.
-<br /> Contact Dr James E. Pickeing via e-mail, j.pickering1@aston.ac.uk
+If you are interested in trying out CLB, we can mail it to you. 
+We kindly request that you return the box within a reasonable time period (e.g., 3 months) and provide user feedback. 
+Please contact Dr. James E. Pickering via email at j.pickering1@aston.ac.uk.
 
 ## Publications 
 [Pickering, J.E., 2024, April. Developments in Control Engineering Education: Lab-in-a-Box Project Based Learning. In 2024 UKACC 14th International Conference on Control (CONTROL) (pp. 195-200). IEEE.](https://ieeexplore.ieee.org/document/10531946)
