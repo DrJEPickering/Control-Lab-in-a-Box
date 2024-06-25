@@ -3,7 +3,13 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
 ## Objectives of Control-Lab-in-a-Box (CLB)
-*
+* Bridge the gap between control theory and practice 
+* Transferrable skills
+& Incremental approach to learning 
+* Transportable and low cost
+  
+![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e7e2bec1-f8b1-4192-932f-745463f0574e)
+
 *
 *
 
