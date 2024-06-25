@@ -9,7 +9,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 * Easily stored within a lab/office, portable (fits within a typical bag) and low cost (£xxxx), i.e., doesn’t matter if parts are broken/lost 
 
 ## Setting-Up 
-Dr James E. Pickering wishes to acknowledge the following colleagues at Aston University for their help in developing Control-Lab-in-a-Box: Prof Keith J. Burnham, Aaisha Yasir (Design Intern), Stuart Hallard (Technician), David Palmer (Technician) and Amarjit Dhugga (Technician)
+Dr James E. Pickering wishes to acknowledge the following colleagues at Aston University for their help in developing Control-Lab-in-a-Box (CLB): Prof Keith J. Burnham, Aaisha Yasir (Design Intern), Stuart Hallard (Technician), David Palmer (Technician) and Amarjit Dhugga (Technician)
 
 ## Setting-Up 
 ![render position 3 11](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/56c510a4-0e8c-4f94-b301-7c2336833f34)
