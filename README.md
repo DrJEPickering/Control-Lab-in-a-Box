@@ -7,9 +7,9 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 *
 *
 
-![render position 3 11](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/56c510a4-0e8c-4f94-b301-7c2336833f34)
 
 ## Setting-Up 
+![render position 3 11](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/56c510a4-0e8c-4f94-b301-7c2336833f34)
 * [Components that need to be 3D printed](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_for_3D_printing.zip)
 * [Components that need to be laser cut](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CAD_files_to_be_laser_cut.zip)
 * [Parts/components that need to be sourced](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
