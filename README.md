@@ -12,6 +12,11 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 Dr James E. Pickering wishes to acknowledge the following colleagues at Aston University for their help in developing Control-Lab-in-a-Box (CLB): Prof Keith J. Burnham, Aaisha Yasir (Design Intern), Stuart Hallard (Technician), David Palmer (Technician) and Amarjit Dhugga (Technician).
 
 ## Setting-Up 
+The computer-aided design (CAD) illustration below displays the setup of the Control-Lab-in-a-Box (CLB) with key components labeled. Please note that not all components, such as nuts, bolts, and wires, are detailed in this diagram.
+
+For the CLB, rapid prototyping methods of 3D printing and laser cutting are employed, with the CAD designs available below in XXXX format.
+
+A document detailing the parts/components necessary for the full utilisation of CLB is provided. Additionally, a document detailing the assembly instructions and modifications for parts/components is included.
 
 ![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/1c652bf6-f888-432c-bed8-9d83c43549ed)
 
