@@ -17,7 +17,8 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 * [Assesmble instructions and part/component modifications](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/1.%203D_Printing)
 
 ## Typical Teaching Curriculum
-
+The table below details the typical shedule of how Control-Lab-in-a-Box (CLB) is used to support theory and simulation.
+<br /> A complte set-up of notes is not provided for the theory and simulation teaching, however, these can be provided if requested.
 
 ![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
