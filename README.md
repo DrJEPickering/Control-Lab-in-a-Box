@@ -5,7 +5,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 ## Objectives of Control-Lab-in-a-Box (CLB)
 * Bridge the gap between control theory and practice 
 * Transferrable skills
-& Incremental approach to learning 
+* Incremental approach to learning 
 * Transportable and low cost
   
 ## Setting-Up 
