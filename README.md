@@ -18,6 +18,9 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 
 ## Typical Teaching Curriculum
 
+
+![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
+
 ## Laboratory Exercises 
 * Simulink Arduino Support Package is used, the add-on...
     * [a link here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink)
