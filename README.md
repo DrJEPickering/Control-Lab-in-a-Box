@@ -39,7 +39,7 @@ Simulink for Code Generation and Deployment: LED Exercise).
   
 
 ## Trial CLB 
-If you are interested in trying out CLB, we can mail it to you. 
+If you are interested in trying out CLB, we can post it to you. 
 We kindly request that you return the box within a reasonable time period (e.g., 3 months) and provide user feedback. 
 Please contact Dr. James E. Pickering via email at j.pickering1@aston.ac.uk.
 
