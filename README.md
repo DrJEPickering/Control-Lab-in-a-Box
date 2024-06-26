@@ -34,9 +34,9 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 <br /> The nine CLB exercises can be downloaded individually below:
 <br />[CLB-1.1: Simulink for Code Generation and Deployment: LED Exercises]()
 <br />[CLB-2.1: DC motor on/off, PWM and polarity control]()
-<br />[CLB-3.1: Temperature sensor TMP36 and low pass filter]()
-<br />[CLB-3.2: Ultrasonic sensor]()
-<br />[CLB-3.3: DC motor with an encoder (Hall Effect Sensor)]()
+<br />[CLB-3.1: Temperature sensor TMP36 and low pass filter](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_3.1_Temp_sensor_filtered.pdf)
+<br />[CLB-3.2: Ultrasonic sensor](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_3.2_Ultrasonic_sensor.pdf)
+<br />[CLB-3.3: DC motor with an encoder (Hall Effect Sensor)](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_3.3%20dc_motor_encoder.pdf)
 <br />CLB-4.1: COMING SOON - DC motor proportional (P) speed control
 <br />[CLB-4.2: Least squares for parameter estimation of a DC motor](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_4.2%20system_indentification_for_parameter_estimation_dc_motor.pdf)
 <br />[CLB-4.3: DC motor proportional and integral (PI) speed control](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_4.3%20PI_control_of_a_DC_motor.pdf)
