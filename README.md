@@ -31,6 +31,8 @@ The DC motor virtual lab is also available at the specified [link](https://uk.ma
 ## CLB Exercises 
 Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via the links beneaf the illustration below), with these detailed via the illustration below. For the nine CLB exercises, Simulink Arduino Support Package is used, details can be found [here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink). Details on how to install the Add-on (i.e., Simulink Arduino Support Package) can be found within CLB-1 (i.e., Simulink for Code Generation and Deployment: LED Exercise).
 
+![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e3aca182-9093-4c64-993f-d81ff951592a)
+
 <br /> The nine CLB exercises can be viewed below:
 <br />CLB-1.1: TO be added SOON - Simulink for Code Generation and Deployment: LED Exercises
 <br />CLB-2.1: TO be added SOON  - DC motor on/off, PWM and polarity control
@@ -43,12 +45,6 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 <br />[CLB-4.4: DC motor PI speed control with on/off safety aspects](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_4.4%20Temp_disp_control_of_a_DC_motor.pdf)
 
 For the above exercises, [this document will help when constructing the CLB rigs](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/compartment_part_details.pdf)
-
-
-
-
-![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e3aca182-9093-4c64-993f-d81ff951592a)
-
 
 ## Trial CLB 
 If you are interested in trying out CLB, we can post it to you. 
