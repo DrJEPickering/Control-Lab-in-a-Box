@@ -42,7 +42,7 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 <br />[CLB-4.1: DC motor proportional (P) speed control]()
 <br />[CLB-4.2: Least squares for parameter estimation of a DC motor]()
 <br />[CLB-4.3: DC motor proportional and integral (PI) speed control]()
-<br />[CLB-4.4:DC motor PI speed control with on/off safety aspects]()
+<br />[CLB-4.4: DC motor PI speed control with on/off safety aspects]()
 
 ![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e3aca182-9093-4c64-993f-d81ff951592a)
 
