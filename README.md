@@ -26,13 +26,11 @@ The table below presents a schedule for integrating the Control-Lab-in-a-Box (CL
 Additionally, the MathWorks Onramp self-paced online courses for MATLAB and Simulink, used in the teaching curriculum, can be accessed through the provided [link](https://matlabacademy.mathworks.com/) . 
 The DC motor virtual lab is also available at the specified [link](https://uk.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
 
-![image](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dbadc379-4c32-467f-a319-6c20b66605af)
 
 ## CLB Exercises 
 Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via the links beneaf the illustration below), with these detailed via the illustration below. 
 <br />For the nine CLB exercises, Simulink Arduino Support Package is used, details can be found [here](https://uk.mathworks.com/hardware-support/arduino.html?#simulink). Details on how to install the Add-on (i.e., Simulink Arduino Support Package) can be found within CLB-1 (i.e., Simulink for Code Generation and Deployment: LED Exercise).
 
-![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/39041e18-3f87-4eb4-94b0-8b25bdca7bcc)
 
 
 <br /> The nine CLB exercises can be downloaded individually below:
