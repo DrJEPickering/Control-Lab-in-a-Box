@@ -8,6 +8,10 @@ https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/485e6375-
 
 
 
+https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/ff0d7155-fd94-43a0-b725-09f65f954116
+
+
+
 ## CLB has been designed to: 
 * Bridge the gap between control theory and practice
 * Ensure that the skills and knowledge acquired from CLB are transferable, such as to a robotic platform
