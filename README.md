@@ -26,6 +26,7 @@ The table below presents a schedule for integrating the Control-Lab-in-a-Box (CL
 Additionally, the MathWorks Onramp self-paced online courses for MATLAB and Simulink, used in the teaching curriculum, can be accessed through the provided [link](https://matlabacademy.mathworks.com/) . 
 The DC motor virtual lab is also available at the specified [link](https://uk.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
 
+![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/c1d722fd-b90b-4662-9b04-7a8b2331677c)
 
 ## CLB Exercises 
 Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via the links beneaf the illustration below), with these detailed via the illustration below. 
