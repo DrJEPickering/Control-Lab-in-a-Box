@@ -2,6 +2,10 @@
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
+[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+
+
+
 [YouTube Video Demonstrating the use of Control-Lab-in-a-Box](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://youtu.be/RAiwTbeBUcU)
 
 [YouTube Video Demonstrating the use of Control-Lab-in-a-Box](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://youtu.be/RAiwTbeBUcU)
