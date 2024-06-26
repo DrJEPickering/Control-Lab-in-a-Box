@@ -2,14 +2,17 @@
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://youtu.be/RAiwTbeBUcU))
 
 
 
 [YouTube Video Demonstrating the use of Control-Lab-in-a-Box](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://youtu.be/RAiwTbeBUcU)
 
 [YouTube Video Demonstrating the use of Control-Lab-in-a-Box](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg](https://youtu.be/RAiwTbeBUcU)
-![Presentation2](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/d4ea0447-e6a3-47d8-b178-00505888e354)(https://www.youtube.com/watch?v=RAiwTbeBUcU)
+![Presentation2](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/d4ea0447-e6a3-47d8-b178-00505888e354)
+
+
+([![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!"))
 
 ## CLB has been designed to: 
 * Bridge the gap between control theory and practice
