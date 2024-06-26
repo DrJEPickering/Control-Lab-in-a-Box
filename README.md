@@ -36,12 +36,18 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 
 <br /> The nine CLB exercises can be downloaded individually below:
 <br />[CLB-1: Simulink for Code Generation and Deployment: LED Exercises](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+<br />[CLB-2: DC motor on/off, PWM and polarity control](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/6e7696c5-8876-43ad-849f-026df43848ae)
+<br />[Temperature sensor TMP36 and low pass filter](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dcedab43-2624-4707-84cc-bad33538987d)
+<br />[](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+<br />[](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+<br />[](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+<br />[](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+<br />[](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+<br />[](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+
 
 ![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e3aca182-9093-4c64-993f-d81ff951592a)
 
-
-
-  
 
 ## Trial CLB 
 If you are interested in trying out CLB, we can post it to you. 
