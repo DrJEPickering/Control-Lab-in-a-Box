@@ -37,6 +37,7 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 <br /> The nine CLB exercises can be downloaded individually below:
 <br />[CLB-1: Simulink for Code Generation and Deployment: LED Exercises](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
 
+![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e3aca182-9093-4c64-993f-d81ff951592a)
 
 
 
