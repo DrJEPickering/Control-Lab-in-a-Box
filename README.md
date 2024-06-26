@@ -35,20 +35,15 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 
 
 <br /> The nine CLB exercises can be downloaded individually below:
-<br />[CLB-1.1: Simulink for Code Generation and Deployment: LED Exercises](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
-<br />[CLB-2.1: DC motor on/off, PWM and polarity control](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/6e7696c5-8876-43ad-849f-026df43848ae)
-<br />[CLB-3.1: Temperature sensor TMP36 and low pass filter](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/dcedab43-2624-4707-84cc-bad33538987d)
+<br />[CLB-1.1: Simulink for Code Generation and Deployment: LED Exercises]()
+<br />[CLB-2.1: DC motor on/off, PWM and polarity control]()
+<br />[CLB-3.1: Temperature sensor TMP36 and low pass filter]()
 <br />[CLB-3.2: Ultrasonic sensor]()
 <br />[CLB-3.3: DC motor with an encoder (Hall Effect Sensor]()
-
-
-
-
-
-<br />[CLB-6: ](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
-<br />[CLB-7: ](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
-<br />[CLB-8: ](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
-<br />[CLB-9:](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/9c864522-a0df-4d7f-bd92-082eb8e352ed)
+<br />[CLB-4.1: DC motor proportional (P) speed control]
+<br />[CLB-4.2: Least squares for parameter estimation of a DC motor]
+<br />[CLB-4.3: DC motor proportional and integral (PI) speed control]
+<br />[CLB-4.4:DC motor PI speed control with on/off safety aspects]
 
 
 ![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e3aca182-9093-4c64-993f-d81ff951592a)
