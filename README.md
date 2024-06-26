@@ -44,7 +44,7 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 <br />[CLB-4.3: DC motor proportional and integral (PI) speed control](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_4.3%20PI_control_of_a_DC_motor.pdf)
 <br />[CLB-4.4: DC motor PI speed control with on/off safety aspects](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_4.4%20Temp_disp_control_of_a_DC_motor.pdf)
 
-For the above exercises, [this document will help when constructing the CLB rigs](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/compartment_part_details.pdf) and perhaps also the [CLB Components Details](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf) document.
+For the above exercises, this [document](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/compartment_part_details.pdf) will help when constructing the CLB rigs and perhaps also the [CLB Components Details](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf) document.
 
 
 
