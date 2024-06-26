@@ -18,9 +18,7 @@ The computer-aided design (CAD) illustration below displays the setup of the Con
 
 <br />A document detailing the parts/components necessary for the full utilisation of CLB is provided [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_component_details.pdf). Additionally, a document detailing the assembly instructions and modifications for parts/components is included [here](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf)
  
-![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/1c652bf6-f888-432c-bed8-9d83c43549ed)
-
-
+![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/cce5519f-a3a0-474c-a365-a4bdae9124cc)
 
 ## Teaching Curriculum
 The table below presents a schedule for integrating the Control-Lab-in-a-Box (CLB) exercises into the teaching of control engineering theory and simulation. Although the notes for theory and simulation are not provided on this page, they are available upon request via email.
