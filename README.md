@@ -34,7 +34,7 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 ![ECC_2024_CLB_V4](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/e3aca182-9093-4c64-993f-d81ff951592a)
 
 <br /> The nine CLB exercises can be viewed below:
-<br />CLB-1.1: TO be added SOON - Simulink for Code Generation and Deployment: LED Exercises
+<br />[CLB-1.1: Simulink for Code Generation and Deployment: LED Exercises](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_1.1_Simulink%20for%20Code%20Generation%20and%20Deployment%20LED%20Exercise.pdf)
 <br />CLB-2.1: TO be added SOON  - DC motor on/off, PWM and polarity control
 <br />[CLB-3.1: Temperature sensor TMP36 and low pass filter](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_3.1_Temp_sensor_filtered.pdf)
 <br />[CLB-3.2: Ultrasonic sensor](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/CLB_3.2_Ultrasonic_sensor.pdf)
