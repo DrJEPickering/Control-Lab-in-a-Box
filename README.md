@@ -3,10 +3,11 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
 ## CLB has been designed to: 
-* Bridge the gap between control theory and practice.
-* Ensure that the skills and knowledge acquired from CLB are transferable, such as to a robotic platform.
+* Bridge the gap between control theory and practice
+* Ensure that the skills and knowledge acquired from CLB are transferable, such as to a robotic platform
 * Facilitate an incremental and practical approach to learning
-* Be easily stored in a lab or office, portable enough to fit within a typical bag, and affordable (approximately £100), thus reducing concerns if parts are broken or lost.
+* Be easily stored in a lab or office, portable enough to fit within a typical bag
+* Affordable (approximately £100), thus reducing concerns if parts are broken or lost
 
 ## Acknowledgments
 Dr James E. Pickering wishes to acknowledge the following colleagues at Aston University for their help in developing Control-Lab-in-a-Box (CLB): Prof Keith J. Burnham, Aaisha Yasir (Design Intern), Stuart Hallard (Technician), David Palmer (Technician) and Amarjit Dhugga (Technician).
