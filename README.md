@@ -1,8 +1,8 @@
 # Control-Lab-in-a-Box (CLB)
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
-![Presentation244](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/33aba922-ef84-43d7-b984-eb499f805236)
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## CLB has been designed to: 
 * Bridge the gap between control theory and practice
