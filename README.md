@@ -38,7 +38,7 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 <br />[CLB-2.1: DC motor on/off, PWM and polarity control]()
 <br />[CLB-3.1: Temperature sensor TMP36 and low pass filter]()
 <br />[CLB-3.2: Ultrasonic sensor]()
-<br />[CLB-3.3: DC motor with an encoder (Hall Effect Sensor]()
+<br />[CLB-3.3: DC motor with an encoder (Hall Effect Sensor)]()
 <br />[CLB-4.1: DC motor proportional (P) speed control]()
 <br />[CLB-4.2: Least squares for parameter estimation of a DC motor]()
 <br />[CLB-4.3: DC motor proportional and integral (PI) speed control]()
