@@ -2,13 +2,7 @@
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
-[![Little red riding hood](http://i.imgur.com/7YTMFQp.png)](https://youtu.be/RAiwTbeBUcU))
-
-
 [![Presentation2](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/2835c8d0-3a54-4bd1-a774-a8bef5e789c1)](https://youtu.be/RAiwTbeBUcU))
-
-
-
 
 ## CLB has been designed to: 
 * Bridge the gap between control theory and practice
