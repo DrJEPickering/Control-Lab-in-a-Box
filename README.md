@@ -5,6 +5,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 * Bridge the gap between control theory and practice
 * Ensure that the skills and knowledge acquired from CLB are transferable, such as to a robotic platform
 * Facilitate an incremental and practical approach to learning
+* Teach students industry relevant processes and softwares 
 * Be easily stored in a lab or office and portable enough to fit within a typical bag
 * Affordable (approximately £100), thus reducing concerns if parts are broken or lost
 
