@@ -3,7 +3,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
 # Contents
-<br />1.0 CLB has been designed to:
+<br />1.0 Aim of CLB
 <br />2.0 Setting-Up
 <br />3.0 Teaching Curriculum
 <br />4.0 CLB Exercises 
@@ -12,7 +12,8 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />7.0 Other MATLAB and Simulink Projects of Interest
 
 
-## 1.0 CLB has been designed to: 
+## 1.0 Aim of CLB
+CLB has been designed to: 
 * Bridge the gap between control theory and practice
 * Ensure that the skills and knowledge acquired from CLB are transferable, such as to a robotic platform
 * Facilitate an incremental and practical approach to learning
