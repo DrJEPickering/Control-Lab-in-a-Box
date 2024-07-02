@@ -2,14 +2,14 @@
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
 
-# Content
-\1.0 CLB has been designed to:
-\2.0 Setting-Up
-\3.0 Teaching Curriculum
-\4.0 CLB Exercises 
-\5.0 Trial CLB for Educators and Industry
-\6.0 Publications 
-\7.0 Other MATLAB and Simulink Projects of Interest
+# Contents
+<br />1.0 CLB has been designed to:
+<br />2.0 Setting-Up
+<br />3.0 Teaching Curriculum
+<br />4.0 CLB Exercises 
+<br />5.0 Trial CLB for Educators and Industry
+<br />6.0 Publications 
+<br />7.0 Other MATLAB and Simulink Projects of Interest
 
 
 ## 1.0 CLB has been designed to: 
