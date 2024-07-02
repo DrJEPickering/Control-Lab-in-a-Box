@@ -10,6 +10,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />5.0 Trial CLB for Educators and Industry
 <br />6.0 Publications 
 <br />7.0 Other MATLAB and Simulink Projects of Interest
+<br />8.0 Acknowledgements
 
 ## 1.0 Aim of CLB
 CLB has been designed to: 
