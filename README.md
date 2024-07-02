@@ -8,7 +8,7 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />3.0 Teaching Curriculum
 <br />4.0 CLB Exercises 
 <br />5.0 Trial CLB for Educators and Industry
-<br />6.0 Publications 
+<br />6.0 Publications Leading to the Development of CLB
 <br />7.0 Other MATLAB and Simulink Projects of Interest
 <br />8.0 Acknowledgements
 
@@ -64,8 +64,10 @@ If you are interested in trying out CLB, we can post it to you.
 We kindly request that you return the box within a reasonable time period (e.g., 3 months) and provide user feedback. 
 Please contact Dr. James E. Pickering via email at j.pickering1@aston.ac.uk.
 
-## 6.0 Publications 
+## 6.0 Publications Leading to the Development of CLB
 [Pickering, J.E., 2024, April. Developments in Control Engineering Education: Lab-in-a-Box Project Based Learning. In 2024 UKACC 14th International Conference on Control (CONTROL) (pp. 195-200). IEEE.](https://ieeexplore.ieee.org/document/10531946)
+
+Pickering, J. E. (2024). Control-Lab-in-a-Box: Bridging the Gap between Control Theory and Engineering Practice. UK and Ireland Engineering Education Research Network Conference Proceedings 2023. https://doi.org/10.31273/10.31273/9781911675167/1621
 
 ## 7.0 Other MATLAB and Simulink Projects of Interest
 [Arduino-based-bi-copter-experiments](https://github.com/eenikov/Arduino-based-bi-copter-experiments/tree/main)\
