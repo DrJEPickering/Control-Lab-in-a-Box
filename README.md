@@ -11,9 +11,6 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 
   [![Presentation2](https://github.com/DrJEPickering/Control-Lab-in-a-Box/assets/154066708/2835c8d0-3a54-4bd1-a774-a8bef5e789c1)](https://youtu.be/RAiwTbeBUcU)
 
-## Acknowledgments
-Dr James E. Pickering wishes to acknowledge the following colleagues at Aston University for their help in developing Control-Lab-in-a-Box (CLB): Prof Keith J. Burnham, Aaisha Yasir (Design Intern), Stuart Hallard (Technician), David Palmer (Technician) and Amarjit Dhugga (Technician).
-
 ## Setting-Up 
 The computer-aided design (CAD) illustration below displays the setup of the Control-Lab-in-a-Box (CLB) with key components labeled. Please note that not all components are detailed in this diagram, e.g., nuts, bolts, and wires.
 
@@ -50,14 +47,13 @@ Control-Lab-in-a-Box (CLB) is used for nine exercises (available to download via
 For the above exercises, this [document](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/compartment_part_details.pdf) will help when constructing the CLB rigs and perhaps also the CLB Components Details [document](https://github.com/DrJEPickering/Control-Lab-in-a-Box/blob/main/Assembly_modifications_Instructions.pdf).
 
 
-
-
-
-
 ## Trial CLB for Educators and Industry
 If you are interested in trying out CLB, we can post it to you. 
 We kindly request that you return the box within a reasonable time period (e.g., 3 months) and provide user feedback. 
 Please contact Dr. James E. Pickering via email at j.pickering1@aston.ac.uk.
+
+## Acknowledgments
+Dr James E. Pickering wishes to acknowledge the following colleagues at Aston University for their help in developing Control-Lab-in-a-Box (CLB): Prof Keith J. Burnham, Aaisha Yasir (Design Intern), Stuart Hallard (Technician), David Palmer (Technician) and Amarjit Dhugga (Technician).
 
 ## Publications 
 [Pickering, J.E., 2024, April. Developments in Control Engineering Education: Lab-in-a-Box Project Based Learning. In 2024 UKACC 14th International Conference on Control (CONTROL) (pp. 195-200). IEEE.](https://ieeexplore.ieee.org/document/10531946)
