@@ -11,7 +11,6 @@ Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />6.0 Publications 
 <br />7.0 Other MATLAB and Simulink Projects of Interest
 
-
 ## 1.0 Aim of CLB
 CLB has been designed to: 
 * Bridge the gap between control theory and practice
