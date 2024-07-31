@@ -1,3 +1,13 @@
+>> filename = 'leaderboard.html';
+>> idList = [ ...
+    734801    ; ... % Binbin Qi
+    3529521   ; ... % Matthew Eicholtz
+    5349647   ; ... % goc3
+    4345310   ; ... % Jan Orwat
+    3397427   ; ... % HH
+    ];
+>> makeLeaderboard(filename,idList)
+
 # Control-Lab-in-a-Box (CLB)
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
 <br />E-mail: j.pickering1@aston.ac.uk
