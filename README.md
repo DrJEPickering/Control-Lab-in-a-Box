@@ -1,12 +1,4 @@
->> filename = 'leaderboard.html';
->> idList = [ ...
-    734801    ; ... % Binbin Qi
-    3529521   ; ... % Matthew Eicholtz
-    5349647   ; ... % goc3
-    4345310   ; ... % Jan Orwat
-    3397427   ; ... % HH
-    ];
->> makeLeaderboard(filename,idList)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=DrJEPickering/Control-Lab-in-a-Box)
 
 # Control-Lab-in-a-Box (CLB)
 Dr James E. pickering, Aston University, Birmingham, United Kingdom
